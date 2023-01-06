@@ -1,0 +1,25 @@
+id: A7D9474D5
+title: Dzogchen Aspiration Prayer
+type: translation
+pechas:
+- I4FDA1348
+- I819CE12C
+- I41CAEAA5
+- IE3F490D1
+source_metadata:
+  languages:
+  - en
+  - pt
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:47:35.187408
+  last_modified_at: 2023-01-04 11:47:35.187413
+  collections:
+  - Dudjom Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I4FDA1348/64BA: 29B2
+  I819CE12C/43FF: 29B2
+  I41CAEAA5/C2FB: 29B2
+  IE3F490D1/E3D8: 29B2
